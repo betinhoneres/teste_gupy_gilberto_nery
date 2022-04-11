@@ -1,6 +1,9 @@
-package src;
+package src.principal;
 
 import java.util.List;
+
+import src.entidade.Item;
+import src.excecao.ItemException;
 
 public class TesteConhecimentoTecnico {
 

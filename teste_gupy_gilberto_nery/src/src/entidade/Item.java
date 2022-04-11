@@ -1,4 +1,4 @@
-package src;
+package src.entidade;
 
 public class Item {
 
