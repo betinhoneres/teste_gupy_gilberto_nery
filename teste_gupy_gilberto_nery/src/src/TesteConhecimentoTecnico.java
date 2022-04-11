@@ -7,7 +7,7 @@ public class TesteConhecimentoTecnico {
 	private static boolean statusProcesso = false;
 
 	private static boolean isOff() {
-		return statusProcesso;
+		return !statusProcesso;
 	}
 
 	private static boolean isOn() {
