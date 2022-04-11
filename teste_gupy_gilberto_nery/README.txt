@@ -1,3 +1,3 @@
-Classe principal se com os exemplos dos exercicios se encontra na classe src.principal.TesteConhecimentoTecnico
+Classe principal com os exemplos dos exercícios se encontra em src.principal.TesteConhecimentoTecnico
 
-Está disponivel talbém no arquivo em PDF (GEGAP - Teste Conhecimento Técnico - Java.pdf) dentro da raiz principal do projeto. 
+Está disponível também no arquivo em PDF (GEGAP - Teste Conhecimento Técnico - Java.pdf) dentro da raiz principal do projeto.
